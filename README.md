@@ -4,7 +4,7 @@ Repositório criado para guardar os exercícios das listas da Python Brasil, com
 
 Listas disponíveis:
 
-<list>
+<li>
   1 - EstruturaSequencial
   2 - EstruturaDeDecisão
   3 - EstruturaDeRepeticão
@@ -14,4 +14,4 @@ Listas disponíveis:
   7 - ExerciciosArquivos
   8 - ExerciciosClasses
   9 - ListaDeExerciciosProjetos
-  <list>
+  <li>
